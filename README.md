@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | University Club     | 2019.09. ~ 2021.02. | President                       | CodeCure                      |
 | Research            | 2020.1. ~           | Undergraduate Research Students | Sangmyung University - Pi:Lab |
 | Challenge           | 2020.08.            | UCPC Final                      | UCPC                          |
-| Challenge           | 2020.11.            | ICPC Korea Regional             | ICP                           |
+| Challenge           | 2020.11.            | ICPC Korea Regional             | ICPC                          |
 
 * CodeCure
   * Information Security and Programming Club
