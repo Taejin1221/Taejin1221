@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 # My GitHub Status
 ![Taejin1221's github stats](https://github-readme-stats.vercel.app/api?username=taejin1221&show_icons=true&theme=graywhite&include_all_commits=true)
 
-# My Top Language
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taejin1221&langs_count=8&theme=graywhitelayout=compact" alt="Top Language of wrathlion" /></p>
-
 # Career
 |         Type        |    Date             |             Contents            |         Organization          |
 |:-------------------:|:-------------------:|:-------------------------------:|:-----------------------------:|
