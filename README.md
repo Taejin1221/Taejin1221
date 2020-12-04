@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋, I'm Coding Emperor🤴 and this is my Code Palace🏰 that I named Grape:grapes: Palace.
 
 <!--
 **Taejin1221/Taejin1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
