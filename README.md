@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# My GitHub Status
+## My GitHub Status
 ![Taejin1221's github stats](https://github-readme-stats.vercel.app/api?username=taejin1221&show_icons=true&theme=graywhite&include_all_commits=true)
 
-# Career
+## Career
 |         Type        |    Date             |             Contents            |         Organization          |
 |:-------------------:|:-------------------:|:-------------------------------:|:-----------------------------:|
 | Education           | 2018.03. ~          | Department of Software          | Sangmyung University          |
