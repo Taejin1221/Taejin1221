@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 * CodeCure
   * Information Security and Programming Club
   
-* Sanmyung ICPC Team
- * Sangmyung University ICPC Team
-   * GitHub: https://github.com/Sangmyung-ICPC-Team
-     * My Repository: https://github.com/Sangmyung-ICPC-Team/Taejin
+* Sangmyung ICPC Team
+  * Sangmyung University ICPC Team
+    * GitHub: https://github.com/Sangmyung-ICPC-Team
+      * My Repository: https://github.com/Sangmyung-ICPC-Team/Taejin
