@@ -34,5 +34,5 @@ Here are some ideas to get you started:
   
 * Sangmyung ICPC Team
   * Sangmyung University ICPC Team
-    * GitHub: https://github.com/Sangmyung-ICPC-Team
-    * My Repository: https://github.com/Sangmyung-ICPC-Team/Taejin
+    * [GitHub](https://github.com/Sangmyung-ICPC-Team)
+    * [My Repository](https://github.com/Sangmyung-ICPC-Team/Taejin)
