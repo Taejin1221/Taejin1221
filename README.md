@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 * CodeCure
   * Information Security and Programming Club
+  * [GitHub](https://github.com/CodeCure-SMU)
   * [My Activities](https://github.com/taejin1221/CodeCure)
   
 * Sangmyung ICPC Team
