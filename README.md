@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 * CodeCure
   * Information Security and Programming Club
-  * [My Activity](https://github.com/taejin1221/CodeCure)
+  * [My Activities](https://github.com/taejin1221/CodeCure)
   
 * Sangmyung ICPC Team
   * Sangmyung University ICPC Team
