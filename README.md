@@ -35,6 +35,6 @@ Here are some ideas to get you started:
   * [My Activities](https://github.com/taejin1221/CodeCure)
   
 * Sangmyung ICPC Team
-  * Sangmyung University ICPC Team
+  * ICPC Team of Sangmyung University
   * [GitHub](https://github.com/Sangmyung-ICPC-Team)
   * [My Repository](https://github.com/Sangmyung-ICPC-Team/Taejin)
