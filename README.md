@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 | Education       | 2018.03. ~          | Department of Software          | Sangmyung University          |
 | University Club | 2019.03. ~ 2019.08. | Vice-President                  | CodeCure                      |
 | University Club | 2019.09. ~ 2021.02. | President                       | CodeCure                      |
-| Research        | 2020.01. ~          | Undergraduate Research Students | Sangmyung University - Pi:Lab |
+| Research        | 2020.01. ~          | Student Researcher | Sangmyung University - Pi:Lab |
 | Challenge       | 2020.08.            | UCPC Final                      | UCPC                          |
 | Challenge       | 2020.11.            | ICPC Korea Regional             | ICPC                          |
 | Team            | 2021.01. ~          | Team Leader                     | Sangmyung ICPC Team           |
