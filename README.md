@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 <!-- ## Waka time stats
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wrathlion&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-## Top langs (except Jupter Notebook)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taejin1221&hide=jupyter%20notebook&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 나의 노력들
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jin99)](https://solved.ac/jin99/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taejin1221&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Career
 | Type            | Date                | Contents                        | Organization                  |
