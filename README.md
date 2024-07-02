@@ -1,4 +1,4 @@
-### Hi👋, I'm Coding Emperor🤴 and this is my Code Palace🏰 that I named Grape:grapes: Palace.
+### Hi👋, I'm Taejin.
 
 <!--
 **Taejin1221/Taejin1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,20 +25,21 @@ Here are some ideas to get you started:
 ## Career
 | Type            | Date                | Contents                        | Organization                  |
 |:---------------:|:-------------------:|:-------------------------------:|:-----------------------------:|
-| Education       | 2018.03. ~          | Department of Software          | Sangmyung University          |
-| University Club | 2019.03. ~ 2019.08. | Vice-President                  | CodeCure                      |
-| University Club | 2019.09. ~ 2021.02. | President                       | CodeCure                      |
-| Research        | 2020.01. ~          | Student Researcher | Sangmyung University - Pi:Lab |
-| Challenge       | 2020.08.            | UCPC Final                      | UCPC                          |
-| Challenge       | 2020.11.            | ICPC Korea Regional             | ICPC                          |
-| Team            | 2021.01. ~          | Team Leader                     | Sangmyung ICPC Team           |
+| 대학교       | 2018.03. ~ 2022.02. | 소프트웨어학과         | 상명대학교          |
+| 동아리 | 2019.09. ~ 2021.02. | 회장                       | CodeCure                      |
+| 연구생        | 2020.01. ~ 2022.02. | 학부연구생 | 상명대학교 - Pi:Lab |
+| 대회       | 2020.08.            | UCPC Final                      | UCPC                          |
+| 대회       | 2020.11.            | ICPC Korea Regional             | ICPC                          |
+| Team            | 2021.01. ~ 2022.02.         | Team Leader                     | SCV           |
+| 대회       | 2021.11.            | ICPC Korea Regional             | ICPC                          |
+| 대회       | 2021.11.            | 상명대학교 프로그래밍 경진대회 대상             | 상명대학교                          |
 
 * CodeCure
   * Information Security and Programming Club
   * [GitHub](https://github.com/CodeCure-SMU)
   * [My Activities](https://github.com/taejin1221/CodeCure)
   
-* Sangmyung ICPC Team
+* SCV (Sangmyung Coding Vitamin)
   * ICPC Team of Sangmyung University
   * [GitHub](https://github.com/Sangmyung-ICPC-Team)
   * [My Repository](https://github.com/Sangmyung-ICPC-Team/Taejin)
