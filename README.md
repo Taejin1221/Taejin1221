@@ -40,7 +40,7 @@ Here are some ideas to get you started:
  
 * Pi:Lab
   * GPS 데이터로 이루어진 두 경로가 유사한지를 인공지능으로 판단하는 연구를 진행
-  * Paper List
+  * Papers
     1. Convolutional AutoEncoder를 이용한 GPS Data Denoising (2020. 12.)
     2. Convolutional Autoencoder를 이용한 경로 유사도 계산 (2021. 6.)
     3. 특징 벡터를 이용한 유사 경로 탐색 (2021. 12.)
