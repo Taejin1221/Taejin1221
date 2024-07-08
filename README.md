@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wrathlion&theme=dracula&layout=compact)](https://wakatime.com/@wrathlion)
 
 ## Career
-| Type   | Date                | Contents                        | Organization       |
-|:------:|:-------------------:|:-------------------------------:|:------------------:|
-|  대학교  | 2018.03. ~ 2022.02. | 소프트웨어학과                       | 상명대학교 |
-|  동아리  | 2019.09. ~ 2021.02. | 회장                              | CodeCure |
-|  연구생  | 2020.01. ~ 2022.02. | 학부연구생                          | 상명대학교 - Pi:Lab |
-|   대회  | 2020.08.            | UCPC Final                       | UCPC |
-|   대회  | 2020.11.            | ICPC Korea Regional              | ICPC |
-|  Team  | 2021.01. ~ 2022.02. | Team Leader                      | SCV |
-|   대회  | 2021.11.            | ICPC Korea Regional              | ICPC |
-|   대회  | 2021.11.            | 상명대학교 프로그래밍 경진대회 대상       | 상명대학교 |
-| 부트캠프 | 2024.07. ~ 2024.12. | 카카오테크 부트캠프 - 생성형 인공지능 과정 | 카카오, 구름 |
+| Type   | Category        | Date                | Contents                        | Organization       |
+|:------:|:---------------:|:-------------------:|:-------------------------------:|:------------------:|
+|  대학교  | 소프트웨어         | 2018.03. ~ 2022.02. | 소프트웨어학과                       | 상명대학교 |
+|  동아리  | 정보보안, 소프트웨어 | 2019.09. ~ 2021.02. | 회장                              | CodeCure |
+|  연구원  | Deep Learning   | 2020.01. ~ 2022.02. | 학부연구생                          | 상명대학교 - Pi:Lab |
+|   대회  | PS               | 2020.08.            | UCPC Final                       | UCPC |
+|   대회  | PS               | 2020.11.            | ICPC Korea Regional              | ICPC |
+|  Team  | PS               | 2021.01. ~ 2022.02. | Team Leader                      | SCV |
+|   대회  | PS               | 2021.11.            | ICPC Korea Regional              | ICPC |
+|   대회  | PS               | 2021.11.            | 상명대학교 프로그래밍 경진대회 대상       | 상명대학교 |
+| 부트캠프 | Deep Learning    | 2024.07. ~ 2024.12. | 카카오테크 부트캠프 - 생성형 인공지능 과정 | 카카오, 구름 |
 
 * CodeCure
   * Information Security and Programming Club
