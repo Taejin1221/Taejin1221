@@ -39,11 +39,11 @@ Here are some ideas to get you started:
   * [My Activities](https://github.com/taejin1221/CodeCure)
  
 * Pi:Lab
-  * GPS 데이터로 이루어진 두 경로가 유사한지를 인공지능으로 판단하는 연구를 진행
+  * GPS 데이터로 이루어진 두 경로가 유사한지를 인공지능(Convolutional Autoencoder)으로 판단하는 연구를 진행
   * Papers
-    1. Convolutional AutoEncoder를 이용한 GPS Data Denoising (2020. 12.)
-    2. Convolutional Autoencoder를 이용한 경로 유사도 계산 (2021. 6.)
-    3. 특징 벡터를 이용한 유사 경로 탐색 (2021. 12.)
+    1. [Convolutional AutoEncoder를 이용한 GPS Data Denoising (2020. 12.)](https://dbpia.co.kr/journal/articleDetail?nodeId=NODE10529969)
+    2. [Convolutional Autoencoder를 이용한 경로 유사도 계산 (2021. 6.)](https://dbpia.co.kr/journal/articleDetail?nodeId=NODE10583456)
+    3. [특징 벡터를 이용한 유사 경로 탐색 (2021. 12.)](https://dbpia.co.kr/journal/articleDetail?nodeId=NODE11036127)
   
 * SCV (Sangmyung Coding Vitamin)
   * ICPC Team of Sangmyung University
