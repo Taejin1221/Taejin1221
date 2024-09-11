@@ -48,3 +48,9 @@ Here are some ideas to get you started:
   * ICPC Team of Sangmyung University
   * [GitHub](https://github.com/Sangmyung-ICPC-Team)
   * [My Repository](https://github.com/Sangmyung-ICPC-Team/Taejin)
+
+* KTB (KakaoTech Bootcamp)
+  * AI 기반 갈등 해결 웹페이지 - Golang
+    * AI/BE
+  * 화상 채팅 웹페이지 - 카부커넥션
+    * BE
