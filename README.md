@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   * [My Repository](https://github.com/Sangmyung-ICPC-Team/Taejin)
 
 * KTB (KakaoTech Bootcamp)
-  * AI 기반 갈등 해결 웹페이지 - Golang
-    * AI/BE
-  * 화상 채팅 웹페이지 - 카부커넥션
-    * BE
+  * AI 기반 갈등 해결 웹페이지 - [Golang](https://github.com/KTB-Hackathon-GoLang/GoLang-AI)
+    * Prompt Engineering, FastAPI 서버를 통한 모델 서빙
+  * 화상 채팅 웹페이지 - [카부커넥션](https://github.com/KakaoTech-BootCamp-Team-2/Kaboo-Auth)
+    * Auth 서버 작성
