@@ -16,8 +16,14 @@ Here are some ideas to get you started:
 -->
 
 ## 나의 노력들
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jin99)](https://solved.ac/profile/jin99/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jin99)](https://solved.ac/profile/jin99/) <img src="http://mazandi.herokuapp.com/api?handle=jin99&theme=dark"/>
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wrathlion&theme=dracula&layout=compact)](https://wakatime.com/@wrathlion)
+
+## 기술 스택
+![Static Badge](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white&logoSize=amg)
+![Static Badge](https://img.shields.io/badge/FastAPI-429488?style=for-the-badge&logo=FastAPI&logoColor=white&logoSize=amg)
+![Static Badge](https://img.shields.io/badge/Tensorflow-EF8A33?style=for-the-badge&logo=Tensorflow&logoColor=white&logoSize=amg)
 
 ## Career
 | Type   | Category        | Date                | Contents                        | Organization       |
