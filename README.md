@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 |   대회  | PS               | 2021.11.            | ICPC Korea Regional              | ICPC |
 |   대회  | PS               | 2021.11.            | 상명대학교 프로그래밍 경진대회 대상       | 상명대학교 |
 | 부트캠프 | AI               | 2024.07. ~ 2024.12. | 카카오테크 부트캠프 - 생성형 인공지능 과정 | 카카오, 구름 |
+|  해커톤 | AI               | 2024.11.            | 제6회 K-디지털 트레이닝 해커톤 - 대상(국무총리 상) | 고용노동부 |
 
 * CodeCure
   * Information Security and Programming Club
@@ -60,3 +61,7 @@ Here are some ideas to get you started:
     * Prompt Engineering, FastAPI 서버를 통한 모델 서빙
   * 화상 채팅 웹페이지 - [카부커넥션](https://github.com/KakaoTech-BootCamp-Team-2/Kaboo-Auth)
     * Auth 서버 작성
+  * 링크 자동 정리 서비스 - [LinkBucket](https://link-bucket.animal-squad.uk/)
+    * FastAPI 서버 작성, 링크 크롤링 가능 여부 판단 및 크롤링
+  * 노인 빈곤을 해결하기 위한 일자리 및 식당 추천 서비스 - [밥상일터](https://github.com/Work-Plate/WorkPlate-AI)
+    * FastAPI 서버 및 주요 기능 작성
